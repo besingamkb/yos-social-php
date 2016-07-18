@@ -1,0 +1,11 @@
+{
+    "name": "besingamkb/bmk-yos",
+    "description": "fork from yahoo/yos-social-php",
+    "authors": [
+        {
+            "name": "Mark Kevin Besinga",
+            "email": "besingamkb@gmail.com"
+        }
+    ],
+    "require": {}
+}
